@@ -1,0 +1,13 @@
+/* Define a fonte padrão para todo o corpo da página */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Estilo para garantir que o QR Code gerado tenha fundo branco */
+#qrcode {
+    padding: 5px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+/* Você pode adicionar outros estilos personalizados aqui se precisar. */
